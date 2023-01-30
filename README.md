@@ -1,5 +1,5 @@
 # firstWebPage
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) ve [Patika] (https://app.patika.dev) HTML Eğitiminde oluşturduğumuz ilk web sitesi. 
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) ve [Patika](https://app.patika.dev) HTML Eğitiminde oluşturduğumuz ilk web sitesi. 
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
